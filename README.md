@@ -16,7 +16,7 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 ![GitHub forks](https://img.shields.io/github/forks/kehyshow/online-shop)
 
 </p>
-
+  
 <p>
 
 [Technologies](#technologies) •
